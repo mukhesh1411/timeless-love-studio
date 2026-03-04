@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
       <div className="flex items-center justify-center gap-2 mb-6">
         <Heart className="w-5 h-5 text-primary fill-primary" />
-        <span className="font-serif text-xl font-semibold">Timeless Moments</span>
+        <span className="font-serif text-xl font-semibold">Esh Photo Studio</span>
       </div>
 
       <div className="flex justify-center gap-4 mb-6">
