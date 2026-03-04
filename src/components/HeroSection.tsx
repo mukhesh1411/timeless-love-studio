@@ -96,7 +96,7 @@ const HeroSection = () => {
             <span className="italic text-primary">Lasts Forever</span>
           </h1>
           <p className="text-white/90 font-serif italic text-lg md:text-2xl mb-2">
-            Timeless Moments Photo Studio
+            Esh Photo Studio
           </p>
           <p className="text-white/70 text-sm md:text-base max-w-md mx-auto mb-8">
             Turning your most cherished moments into timeless heirlooms with romantic, candid storytelling.
