@@ -109,8 +109,8 @@ const ContactSection = () => {
               {[
                 { icon: MapPin, text: "123 Love Lane, T. Nagar, Chennai 600017" },
                 { icon: Phone, text: "+91 98765 43210" },
-                { icon: Mail, text: "info@timelessmoments.in" },
-                { icon: Instagram, text: "@timelessmoments.in" },
+                { icon: Mail, text: "info@eshphotostudio.in" },
+                { icon: Instagram, text: "@eshphotostudio" },
               ].map((item) => (
                 <div key={item.text} className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-blush flex items-center justify-center flex-shrink-0">
