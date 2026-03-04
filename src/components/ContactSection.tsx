@@ -90,7 +90,7 @@ const ContactSection = () => {
                 <MessageCircle className="w-4 h-4" /> WhatsApp
               </a>
               <a
-                href="mailto:info@timelessmoments.in"
+                href="mailto:info@eshphotostudio.in"
                 className="flex-1 flex items-center justify-center gap-2 py-2.5 rounded-full border border-border text-foreground hover:bg-muted transition-colors text-sm font-medium"
               >
                 <Mail className="w-4 h-4" /> Email Us
@@ -109,8 +109,8 @@ const ContactSection = () => {
               {[
                 { icon: MapPin, text: "123 Love Lane, T. Nagar, Chennai 600017" },
                 { icon: Phone, text: "+91 98765 43210" },
-                { icon: Mail, text: "info@timelessmoments.in" },
-                { icon: Instagram, text: "@timelessmoments.in" },
+                { icon: Mail, text: "info@eshphotostudio.in" },
+                { icon: Instagram, text: "@eshphotostudio" },
               ].map((item) => (
                 <div key={item.text} className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-blush flex items-center justify-center flex-shrink-0">
