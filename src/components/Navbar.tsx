@@ -31,7 +31,7 @@ const Navbar = () => {
           <button onClick={() => scrollTo("home")} className="flex items-center gap-2 group">
             <Heart className="w-5 h-5 text-primary fill-primary group-hover:scale-110 transition-transform" />
             <span className="font-serif text-lg md:text-xl font-semibold text-foreground">
-              Timeless Moments
+              Esh Photo Studio
             </span>
           </button>
 
