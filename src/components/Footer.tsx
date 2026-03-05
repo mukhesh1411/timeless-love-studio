@@ -29,7 +29,7 @@ const Footer = () => (
         © {new Date().getFullYear()} Esh Photo Studio. All rights reserved.
       </p>
       <p className="text-background/40 text-xs flex items-center justify-center gap-1">
-        Made with <Heart className="w-3 h-3 text-primary fill-primary" /> in Chennai
+        Made with <Heart className="w-3 h-3 text-primary fill-primary" /> in Coimbatore
       </p>
     </div>
   </footer>
