@@ -82,7 +82,7 @@ const ContactSection = () => {
 
             <div className="flex gap-3 pt-2">
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/919994878151"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-2 py-2.5 rounded-full border border-border text-foreground hover:bg-muted transition-colors text-sm font-medium"
