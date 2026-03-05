@@ -10,8 +10,8 @@ const Footer = () => (
 
       <div className="flex justify-center gap-4 mb-6">
         {[
-          { icon: Instagram, href: "https://instagram.com/eshphotostudio" },
-          { icon: Facebook, href: "https://facebook.com/eshphotostudio" },
+          { icon: Instagram, href: "https://instagram.com/adphotostudio" },
+          { icon: Facebook, href: "https://facebook.com/adphotostudio" },
         ].map((s, i) => (
           <a
             key={i}
