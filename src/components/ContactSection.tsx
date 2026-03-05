@@ -90,7 +90,7 @@ const ContactSection = () => {
                 <MessageCircle className="w-4 h-4" /> WhatsApp
               </a>
               <a
-                href="mailto:info@eshphotostudio.in"
+                href="mailto:info@adphotostudio.in"
                 className="flex-1 flex items-center justify-center gap-2 py-2.5 rounded-full border border-border text-foreground hover:bg-muted transition-colors text-sm font-medium"
               >
                 <Mail className="w-4 h-4" /> Email Us
