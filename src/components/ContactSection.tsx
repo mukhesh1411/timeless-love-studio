@@ -131,7 +131,7 @@ const ContactSection = () => {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Studio location in Chennai"
+                title="Studio location in Coimbatore"
               />
             </div>
           </motion.div>
