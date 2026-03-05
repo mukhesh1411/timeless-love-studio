@@ -26,7 +26,7 @@ const Footer = () => (
       </div>
 
       <p className="text-background/60 text-sm mb-2">
-        © {new Date().getFullYear()} Esh Photo Studio. All rights reserved.
+        © {new Date().getFullYear()} AD Photo Studio. All rights reserved.
       </p>
       <p className="text-background/40 text-xs flex items-center justify-center gap-1">
         Made with <Heart className="w-3 h-3 text-primary fill-primary" /> in Coimbatore

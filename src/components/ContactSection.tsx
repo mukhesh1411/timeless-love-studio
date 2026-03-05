@@ -109,8 +109,8 @@ const ContactSection = () => {
               {[
                 { icon: MapPin, text: "Coimbatore, Tamil Nadu, India" },
                 { icon: Phone, text: "+91 99948 78151" },
-                { icon: Mail, text: "info@eshphotostudio.in" },
-                { icon: Instagram, text: "@eshphotostudio" },
+                { icon: Mail, text: "info@adphotostudio.in" },
+                { icon: Instagram, text: "@adphotostudio" },
               ].map((item) => (
                 <div key={item.text} className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-blush flex items-center justify-center flex-shrink-0">
