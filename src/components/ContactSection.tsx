@@ -107,8 +107,8 @@ const ContactSection = () => {
           >
             <div className="space-y-5">
               {[
-                { icon: MapPin, text: "123 Love Lane, T. Nagar, Chennai 600017" },
-                { icon: Phone, text: "+91 98765 43210" },
+                { icon: MapPin, text: "Coimbatore, Tamil Nadu, India" },
+                { icon: Phone, text: "+91 99948 78151" },
                 { icon: Mail, text: "info@eshphotostudio.in" },
                 { icon: Instagram, text: "@eshphotostudio" },
               ].map((item) => (
