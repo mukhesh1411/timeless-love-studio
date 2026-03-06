@@ -5,13 +5,13 @@ const Footer = () => (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
       <div className="flex items-center justify-center gap-2 mb-6">
         <Heart className="w-5 h-5 text-primary fill-primary" />
-        <span className="font-serif text-xl font-semibold">Esh Photo Studio</span>
+        <span className="font-serif text-xl font-semibold">AD Photo Studio</span>
       </div>
 
       <div className="flex justify-center gap-4 mb-6">
         {[
-          { icon: Instagram, href: "https://instagram.com/eshphotostudio" },
-          { icon: Facebook, href: "https://facebook.com/eshphotostudio" },
+          { icon: Instagram, href: "https://instagram.com/adphotostudio" },
+          { icon: Facebook, href: "https://facebook.com/adphotostudio" },
         ].map((s, i) => (
           <a
             key={i}
@@ -26,7 +26,7 @@ const Footer = () => (
       </div>
 
       <p className="text-background/60 text-sm mb-2">
-        © {new Date().getFullYear()} Esh Photo Studio. All rights reserved.
+        © {new Date().getFullYear()} AD Photo Studio. All rights reserved.
       </p>
       <p className="text-background/40 text-xs flex items-center justify-center gap-1">
         Made with <Heart className="w-3 h-3 text-primary fill-primary" /> in Coimbatore

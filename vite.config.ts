@@ -4,9 +4,12 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
+const repo = "timeless-love-studio"; // update if your repo name changes
+
 export default defineConfig(({ mode }) => ({
+  base: mode === "development" ? "/" : `/${repo}/`,
   server: {
-    host: "::",
+    host: "/",
     port: 8080,
     hmr: {
       overlay: false,

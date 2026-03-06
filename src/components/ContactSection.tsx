@@ -82,7 +82,7 @@ const ContactSection = () => {
 
             <div className="flex gap-3 pt-2">
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/919994878151"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-2 py-2.5 rounded-full border border-border text-foreground hover:bg-muted transition-colors text-sm font-medium"
@@ -90,7 +90,7 @@ const ContactSection = () => {
                 <MessageCircle className="w-4 h-4" /> WhatsApp
               </a>
               <a
-                href="mailto:info@eshphotostudio.in"
+                href="mailto:info@adphotostudio.in"
                 className="flex-1 flex items-center justify-center gap-2 py-2.5 rounded-full border border-border text-foreground hover:bg-muted transition-colors text-sm font-medium"
               >
                 <Mail className="w-4 h-4" /> Email Us
@@ -109,8 +109,8 @@ const ContactSection = () => {
               {[
                 { icon: MapPin, text: "Coimbatore, Tamil Nadu, India" },
                 { icon: Phone, text: "+91 99948 78151" },
-                { icon: Mail, text: "info@eshphotostudio.in" },
-                { icon: Instagram, text: "@eshphotostudio" },
+                { icon: Mail, text: "info@adphotostudio.in" },
+                { icon: Instagram, text: "@adphotostudio" },
               ].map((item) => (
                 <div key={item.text} className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-blush flex items-center justify-center flex-shrink-0">
